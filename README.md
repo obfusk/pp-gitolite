@@ -2,7 +2,7 @@
 
     File        : README.md
     Maintainer  : Felix C. Stegerman <flx@obfusk.net>
-    Date        : 2013-09-09
+    Date        : 2013-09-26
 
     Copyright   : Copyright (C) 2013  Felix C. Stegerman
 
@@ -16,6 +16,20 @@
   ...
 
 []: }}}1
+
+## Tests
+[]: {{{1
+
+  To run the tests, you will need a meta-project like
+  https://github.com/obfusk/pp-meta.
+
+[]: }}}1
+
+## TODO
+
+  * build!
+  * more specs/docs?
+  * ...
 
 ## License
 []: {{{1
